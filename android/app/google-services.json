@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882621884048",
+    "project_id": "ebda3a-e-commerce",
+    "storage_bucket": "ebda3a-e-commerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882621884048:android:223f4b521d1eb1c75e5a15",
+        "android_client_info": {
+          "package_name": "com.example.ebad3a_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882621884048-4jm8vtv77cargfd2dgc9c82mieg0qq5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmx9WXptI6asJ6XAUxI93ER0Ygl7vfns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882621884048-4jm8vtv77cargfd2dgc9c82mieg0qq5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882621884048-ugahiamafqles0tgiu20kgfnotehv4vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ebda3a"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
